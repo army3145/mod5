@@ -97,7 +97,7 @@ function buildAndShowHomeHTML (categories) {
   $ajaxUtils.sendGetRequest(
     homeHtmlUrl,
     function (homeHtml) {
-      var request = chosenCategoryShortName();
+        var request = chosenCategoryShortName();
          request.onreadystatechange = 
            function() { 
              handlerResponse(chosenRandomCatergory);
