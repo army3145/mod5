@@ -132,7 +132,7 @@ body {
   box-shadow: 0 1px 5px 1px #cccccc;
 }
 #menu-tile {
-  background: url('https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/assignment5-solution-starter/images/menu-tile.jpg?raw=true') no-repeat;
+  background: url(https://richmondmagazine.com/downloads/27931/download/Feature_BestRestaurants_RestaurantAdarra_Stuffed-squid_white-beans_greens_ShawneeCustalow_rp1219_teaser.jpg?cb=9072e3a62ddb7a279d5fc9cdbb1089c9) no-repeat;
   background-position: center;
 }
 #specials-tile {
